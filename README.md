@@ -26,6 +26,7 @@ Les trois clones ont une carte réseau avec une adresse IP différentes :
 
 
 ## 3.Mise en place du routage statique 
+<img src="Capture.png">
 
 
 

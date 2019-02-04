@@ -26,7 +26,23 @@ Les trois clones ont une carte réseau avec une adresse IP différentes :
 
 
 ## 3.Mise en place du routage statique 
-<img src="Capture.png">
+### 1.Sur `routeur1`
+<img src="Capture.png" alt="routeur" title="routeur">  
+
+* Une fois cela fait on s'occupe de la VM client et serveur.
+
+### 4.Test 
+* Le client ping le serveur on obtient `3 packets transmitted 3 received` pareil pour le serveur qui ping le client  
+* Pour le traceroute on obtient cela : 
+<img src="traceroute.png" alt="traceroute" title="traceroute">
+
+
+# II.Spéléologie réseau
+
+## 1.ARP 
+
+### A.Manip 1
+
 
 
 
